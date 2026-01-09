@@ -1,11 +1,11 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sai Teja
+## Hi I am Sai Teja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-### An aspiring AI/ML Engineer from India
+#### An aspiring AI/ML Engineer from India
 
-I focus on staying consistent in the rapidly evolving Artificial Intelligence and machine learning landscape by learning continuously and building projects.
+#### I focus on staying consistent in the rapidly evolving Artificial Intelligence and machine learning landscape by learning continuously and building projects.
 ---
 
-## 🌐 Connect with me:
+### Connect with me:
 
 <p align="left">
 <a href="https://linkedin.com/in/sai-teja-bejavada-00aa50289" target="_blank">
@@ -21,7 +21,7 @@ I focus on staying consistent in the rapidly evolving Artificial Intelligence an
 
 ---
 
-## 🛠️ Languages and Tools:
+### Languages and Tools:
 
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
