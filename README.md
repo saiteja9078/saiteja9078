@@ -1,12 +1,4 @@
-## Hi I am Sai Teja <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-
-#### An aspiring AI/ML Engineer from India
-
-#### I focus on staying consistent in the rapidly evolving Artificial Intelligence and machine learning landscape by learning continuously and building projects.
----
-
-### Languages and Tools:
-
+ML
 <p align="left">
 <a href="https://www.python.org" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
