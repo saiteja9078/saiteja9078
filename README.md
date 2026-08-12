@@ -3,4 +3,4 @@ systems, computer vision, and backend development, and I’m currently focused o
 
 **AI/ML Resume:** [View my AI/ML Resume](https://drive.google.com/file/d/1diZlKpbCQa2ufCa5WQbu1kcrve-2bEGX/view?usp=sharing&utm_source=chatgpt.com)
 
-I’m also currently working on my Java/Spring Boot.
+I’m also currently working on Java/Spring Boot.
