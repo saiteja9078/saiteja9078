@@ -5,6 +5,8 @@ systems, computer vision, and backend development, and I’m currently focused o
 
 I’m also currently working on Java/Spring Boot.
 
+**Java Resume:** [View my java resume](https://drive.google.com/file/d/15g6lLTomBKKkOZwj-Qk6ENLnU4jZpPPf/view?usp=sharing)
+
 Open for collab.
 
 contact: b.saiteja.ai@gmail.com
